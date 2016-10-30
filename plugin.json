@@ -1,0 +1,14 @@
+{
+  "sample_plugin_slug1": {
+    "plugin_name": "sample_plugin_1",
+    "slug": "sample_plugin_slug1",
+    "author": "my author",
+    "description": "test description"
+  },
+  "sample_plugin_slug2": {
+    "plugin_name": "sample_plugin_2",
+    "slug": "sample_plugin_slug2",
+    "author": "my author1",
+    "description": "test description1"
+  }
+}
